@@ -46,7 +46,7 @@ UNET分割算法。
 以下均为我熟练使用的技能
 - Web开发：Node/Python
 - Web框架：Flask/BackboneJS/KOA/Express/
-- 前端框架：Bootstrap/AngularJS/HTML5/Vue
+- 前端框架：Bootstrap/HTML5/Vue
 - 前端工具：Bower/Gulp/LeSS/Grunt
 - 数据库相关：MySQL/MongoDB/Redis/SQLite
 - 版本管理、文档和自动化部署工具：Svn/Git
